@@ -1,0 +1,9 @@
+C:\Users\chedraui\Documents\visual studio\MasProyectos\CalculadoraPC\CalculadoraPC\bin\Debug\CalculadoraPC.exe.config
+C:\Users\chedraui\Documents\visual studio\MasProyectos\CalculadoraPC\CalculadoraPC\bin\Debug\CalculadoraPC.exe
+C:\Users\chedraui\Documents\visual studio\MasProyectos\CalculadoraPC\CalculadoraPC\bin\Debug\CalculadoraPC.pdb
+C:\Users\chedraui\Documents\visual studio\MasProyectos\CalculadoraPC\CalculadoraPC\obj\Debug\CalculadoraPC.csprojAssemblyReference.cache
+C:\Users\chedraui\Documents\visual studio\MasProyectos\CalculadoraPC\CalculadoraPC\obj\Debug\CalculadoraPC.Form1.resources
+C:\Users\chedraui\Documents\visual studio\MasProyectos\CalculadoraPC\CalculadoraPC\obj\Debug\CalculadoraPC.Properties.Resources.resources
+C:\Users\chedraui\Documents\visual studio\MasProyectos\CalculadoraPC\CalculadoraPC\obj\Debug\CalculadoraPC.csproj.GenerateResource.cache
+C:\Users\chedraui\Documents\visual studio\MasProyectos\CalculadoraPC\CalculadoraPC\obj\Debug\CalculadoraPC.exe
+C:\Users\chedraui\Documents\visual studio\MasProyectos\CalculadoraPC\CalculadoraPC\obj\Debug\CalculadoraPC.pdb
